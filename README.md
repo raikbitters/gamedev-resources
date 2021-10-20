@@ -1,5 +1,9 @@
 # gamedev-resources
 
+## Guides and patterns
+
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
+
 ## Sounds
 * [Free sound effects by SONNISS](https://sonniss.com/gameaudiogdc18)
 
